@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DD0CD55F-3B7D-43DC-A112-B01FA8B0A89B"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "03756DE8-E878-4D36-99C8-ED7C1E3427BE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F978828-802C-43EE-925E-4BAEBB8CA459"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qianDanWang/&#x4e0a;&#x7ebf;&#x540e;/&#x4e2a;&#x4eba;&#x6a21;&#x5757;/ViewController/&#x6d88;&#x606f;&#x63a8;&#x9001;&#x8bbe;&#x7f6e;/SSH_TuiSongSheZhiController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "-isOpenNotification"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66840B9E-5431-4908-9271-5C362B7E1655"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qianDanWang/&#x4e0a;&#x7ebf;&#x540e;/&#x4e2a;&#x4eba;&#x6a21;&#x5757;/ViewController/&#x6d88;&#x606f;&#x63a8;&#x9001;&#x8bbe;&#x7f6e;/SSH_TuiSongSheZhiController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "-isOpenNotification"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21CE0881-CC38-408E-9782-F953A11B017E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qianDanWang/&#x4e0a;&#x7ebf;&#x540e;/&#x4e2a;&#x4eba;&#x6a21;&#x5757;/&#x8eab;&#x4efd;&#x8ba4;&#x8bc1;/OCR&#x8ba4;&#x8bc1;/SSH_ShuaLianRenZhengViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "-startBrushBtnClicked"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "21CE0881-CC38-408E-9782-F953A11B017E - 355c44adc16354b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SSH_ShuaLianRenZhengViewController startBrushBtnClicked]"
+                  moduleName = "qianDanWang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cq/Desktop/%E8%A5%BF%E7%93%9C%E8%A5%BF%E7%93%9C/1%E4%B8%BB%E5%8C%85/qianDanWang/qianDanWang/%E4%B8%8A%E7%BA%BF%E5%90%8E/%E4%B8%AA%E4%BA%BA%E6%A8%A1%E5%9D%97/%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81/OCR%E8%AE%A4%E8%AF%81/SSH_ShuaLianRenZhengViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "21CE0881-CC38-408E-9782-F953A11B017E - 90f31c397467b127"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__58-[SSH_ShuaLianRenZhengViewController startBrushBtnClicked]_block_invoke"
+                  moduleName = "qianDanWang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cq/Desktop/%E8%A5%BF%E7%93%9C%E8%A5%BF%E7%93%9C/1%E4%B8%BB%E5%8C%85/qianDanWang/qianDanWang/%E4%B8%8A%E7%BA%BF%E5%90%8E/%E4%B8%AA%E4%BA%BA%E6%A8%A1%E5%9D%97/%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81/OCR%E8%AE%A4%E8%AF%81/SSH_ShuaLianRenZhengViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D184D1A5-6340-47F0-9844-A083C3C587ED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qianDanWang/&#x4e0a;&#x7ebf;&#x540e;/&#x4e2a;&#x4eba;&#x6a21;&#x5757;/&#x8eab;&#x4efd;&#x8ba4;&#x8bc1;/OCR&#x8ba4;&#x8bc1;/SSH_ShuaLianRenZhengViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "-brushVerificationCompletedView"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81A47DFC-7431-4278-9C80-F2742A0D8094"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qianDanWang/&#x4e0a;&#x7ebf;&#x540e;/&#x4e2a;&#x4eba;&#x6a21;&#x5757;/&#x8eab;&#x4efd;&#x8ba4;&#x8bc1;/OCR&#x8ba4;&#x8bc1;/SSH_ShuaLianRenZhengViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "-startBrushBtnClicked"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C0CE71C-36AB-4129-BE73-290862020943"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qianDanWang/&#x4e0a;&#x7ebf;&#x540e;/&#x4e2a;&#x4eba;&#x6a21;&#x5757;/&#x8eab;&#x4efd;&#x8ba4;&#x8bc1;/OCR&#x8ba4;&#x8bc1;/SSH_ShuaLianRenZhengViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "-brushVerificationCompletedView"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A55BB4E-109F-44DC-BE08-6EED0205A75B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qianDanWang/&#x4e0a;&#x7ebf;&#x540e;/&#x4e2a;&#x4eba;&#x6a21;&#x5757;/&#x8eab;&#x4efd;&#x8ba4;&#x8bc1;/OCR&#x8ba4;&#x8bc1;/SSH_ShuaLianRenZhengViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4163CD24-E3F5-4CA9-AC3E-B11CE588F68F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qianDanWang/&#x4e0a;&#x7ebf;&#x540e;/&#x4e2a;&#x4eba;&#x6a21;&#x5757;/&#x8eab;&#x4efd;&#x8ba4;&#x8bc1;/OCR&#x8ba4;&#x8bc1;/SSH_ShuaLianRenZhengViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "-startBrushBtn"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59B5FFA1-C66C-444A-9DC9-B55FD32C9678"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qianDanWang/&#x4e0a;&#x7ebf;&#x540e;/&#x4e2a;&#x4eba;&#x6a21;&#x5757;/&#x8eab;&#x4efd;&#x8ba4;&#x8bc1;/OCR&#x8ba4;&#x8bc1;/SSH_ShenFenZhengRenZhengViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "233"
+            endingLineNumber = "233"
+            landmarkName = "-shangChuanZhengBtnClicked:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8ADC94B6-B7A2-46C1-9601-749F3221F536"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qianDanWang/&#x4e0a;&#x7ebf;&#x540e;/&#x4e2a;&#x4eba;&#x6a21;&#x5757;/&#x8eab;&#x4efd;&#x8ba4;&#x8bc1;/OCR&#x8ba4;&#x8bc1;/SSH_ShenFenZhengRenZhengViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "192"
+            endingLineNumber = "192"
+            landmarkName = "-shangChuanZhengBtnClicked:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1ECB09D5-CD27-410A-BB73-FC757E3E119E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qianDanWang/&#x4e0a;&#x7ebf;&#x540e;/&#x4e2a;&#x4eba;&#x6a21;&#x5757;/&#x8eab;&#x4efd;&#x8ba4;&#x8bc1;/OCR&#x8ba4;&#x8bc1;/SSH_ZhiYeViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "150"
+            endingLineNumber = "150"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "77E6293B-B889-4CA2-9D91-3FEC95C51400"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qianDanWang/&#x4e0a;&#x7ebf;&#x540e;/&#x4e2a;&#x4eba;&#x6a21;&#x5757;/&#x8eab;&#x4efd;&#x8ba4;&#x8bc1;/OCR&#x8ba4;&#x8bc1;/SSH_ShenFenZhengRenZhengViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7DE50BBF-A5DC-408B-B6C8-AD3EDD55562D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qianDanWang/&#x4e0a;&#x7ebf;&#x540e;/&#x4e2a;&#x4eba;&#x6a21;&#x5757;/&#x8eab;&#x4efd;&#x8ba4;&#x8bc1;/OCR&#x8ba4;&#x8bc1;/SSH_ShenFenZhengRenZhengViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "-remindLab"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3F59693-F816-4595-AFFC-329D6EED473A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qianDanWang/&#x4e0a;&#x7ebf;&#x540e;/&#x4e2a;&#x4eba;&#x6a21;&#x5757;/&#x8eab;&#x4efd;&#x8ba4;&#x8bc1;/OCR&#x8ba4;&#x8bc1;/SSH_ShenFenZhengRenZhengViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "193"
+            endingLineNumber = "193"
+            landmarkName = "-shangChuanZhengBtnClicked:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08AD0CD6-D084-4CED-8EFC-FD4F767EC7B1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qianDanWang/&#x4e0a;&#x7ebf;&#x540e;/&#x4e2a;&#x4eba;&#x6a21;&#x5757;/&#x8eab;&#x4efd;&#x8ba4;&#x8bc1;/OCR&#x8ba4;&#x8bc1;/SSH_ShenFenZhengRenZhengViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "192"
+            endingLineNumber = "192"
+            landmarkName = "-shangChuanZhengBtnClicked:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C89E8114-1C39-41D9-B982-90B6112C5D91"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qianDanWang/&#x4e0a;&#x7ebf;&#x540e;/&#x4e2a;&#x4eba;&#x6a21;&#x5757;/&#x8eab;&#x4efd;&#x8ba4;&#x8bc1;/OCR&#x8ba4;&#x8bc1;/SSH_ShenFenZhengRenZhengViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "194"
+            endingLineNumber = "194"
+            landmarkName = "-shangChuanZhengBtnClicked:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1FE0A2FA-826A-441F-ACD7-E5152A5DA3D1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qianDanWang/&#x4e0a;&#x7ebf;&#x540e;/&#x5927;&#x5168;&#x6a21;&#x5757;/ViewController/SSH_DiErYeViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1160"
+            endingLineNumber = "1160"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D267A3D-DAC6-48E1-BCFC-6CA994FD10FB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qianDanWang/&#x4e0a;&#x7ebf;&#x540e;/&#x5927;&#x5168;&#x6a21;&#x5757;/ViewController/SSH_DiErYeViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1162"
+            endingLineNumber = "1162"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6443989-572A-40E3-BB04-C9C6648E83BC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qianDanWang/&#x4e0a;&#x7ebf;&#x540e;/&#x4e2a;&#x4eba;&#x6a21;&#x5757;/&#x8eab;&#x4efd;&#x8ba4;&#x8bc1;/OCR&#x8ba4;&#x8bc1;/SSH_ShenFenZhengRenZhengViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "-uploadOnlyImage:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F6443989-572A-40E3-BB04-C9C6648E83BC - 52346275ab69c274"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SSH_ShenFenZhengRenZhengViewController uploadOnlyImage:]"
+                  moduleName = "qianDanWang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cq/Desktop/%E8%A5%BF%E7%93%9C%E8%A5%BF%E7%93%9C/1%E4%B8%BB%E5%8C%85/qianDanWang/qianDanWang/%E4%B8%8A%E7%BA%BF%E5%90%8E/%E4%B8%AA%E4%BA%BA%E6%A8%A1%E5%9D%97/%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81/OCR%E8%AE%A4%E8%AF%81/SSH_ShenFenZhengRenZhengViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "1008">
+               </Location>
+               <Location
+                  uuid = "F6443989-572A-40E3-BB04-C9C6648E83BC - a94ff16386a609c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__58-[SSH_ShenFenZhengRenZhengViewController uploadOnlyImage:]_block_invoke"
+                  moduleName = "qianDanWang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cq/Desktop/%E8%A5%BF%E7%93%9C%E8%A5%BF%E7%93%9C/1%E4%B8%BB%E5%8C%85/qianDanWang/qianDanWang/%E4%B8%8A%E7%BA%BF%E5%90%8E/%E4%B8%AA%E4%BA%BA%E6%A8%A1%E5%9D%97/%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81/OCR%E8%AE%A4%E8%AF%81/SSH_ShenFenZhengRenZhengViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8BB7194-1175-4701-8388-6BA2DEBC1B3A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qianDanWang/&#x4e0a;&#x7ebf;&#x540e;/&#x4e2a;&#x4eba;&#x6a21;&#x5757;/&#x8eab;&#x4efd;&#x8ba4;&#x8bc1;/OCR&#x8ba4;&#x8bc1;/SSH_ShuaLianRenZhengViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "330"
+            endingLineNumber = "330"
+            landmarkName = "-getImageUrlStr:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E8BB7194-1175-4701-8388-6BA2DEBC1B3A - 9f0a1e7b2ad7f575"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SSH_ShuaLianRenZhengViewController getImageUrlStr:]"
+                  moduleName = "qianDanWang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cq/Desktop/%E8%A5%BF%E7%93%9C%E8%A5%BF%E7%93%9C/1%E4%B8%BB%E5%8C%85/qianDanWang/qianDanWang/%E4%B8%8A%E7%BA%BF%E5%90%8E/%E4%B8%AA%E4%BA%BA%E6%A8%A1%E5%9D%97/%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81/OCR%E8%AE%A4%E8%AF%81/SSH_ShuaLianRenZhengViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "330"
+                  endingLineNumber = "330"
+                  offsetFromSymbolStart = "328">
+               </Location>
+               <Location
+                  uuid = "E8BB7194-1175-4701-8388-6BA2DEBC1B3A - 68053b59fe677fc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__53-[SSH_ShuaLianRenZhengViewController getImageUrlStr:]_block_invoke"
+                  moduleName = "qianDanWang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.sdk/usr/include/dispatch/queue.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "586"
+                  endingLineNumber = "586"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41B94388-21C7-46C5-B137-36E188B4C5D0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qianDanWang/&#x4e0a;&#x7ebf;&#x540e;/&#x4e2a;&#x4eba;&#x6a21;&#x5757;/&#x8eab;&#x4efd;&#x8ba4;&#x8bc1;/OCR&#x8ba4;&#x8bc1;/SSH_ZhiYeViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "-uploadOnlyImage:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "41B94388-21C7-46C5-B137-36E188B4C5D0 - 5b24bcc062162681"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SSH_ZhiYeViewController uploadOnlyImage:]"
+                  moduleName = "qianDanWang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cq/Desktop/%E8%A5%BF%E7%93%9C%E8%A5%BF%E7%93%9C/1%E4%B8%BB%E5%8C%85/qianDanWang/qianDanWang/%E4%B8%8A%E7%BA%BF%E5%90%8E/%E4%B8%AA%E4%BA%BA%E6%A8%A1%E5%9D%97/%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81/OCR%E8%AE%A4%E8%AF%81/SSH_ZhiYeViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "328">
+               </Location>
+               <Location
+                  uuid = "41B94388-21C7-46C5-B137-36E188B4C5D0 - 26c99767acfd1c22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__43-[SSH_ZhiYeViewController uploadOnlyImage:]_block_invoke"
+                  moduleName = "qianDanWang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.sdk/usr/include/dispatch/queue.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "586"
+                  endingLineNumber = "586"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FFE7B972-5548-47A5-931D-D74A95EB8E95"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qianDanWang/&#x4e0a;&#x7ebf;&#x540e;/&#x4e2a;&#x4eba;&#x6a21;&#x5757;/&#x8eab;&#x4efd;&#x8ba4;&#x8bc1;/&#x65b0;&#x8ba4;&#x8bc1;/&#x4f01;&#x4e1a;&#x76f8;&#x5173;&#x7167;&#x7247;/SSH_New_QYZPViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "330"
+            endingLineNumber = "330"
+            landmarkName = "-imagePickerController:didFinishPickingMediaWithInfo:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4DACABE2-7BDF-4EA3-B56D-DA7AB3963BCB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qianDanWang/&#x4e0a;&#x7ebf;&#x540e;/&#x4e2a;&#x4eba;&#x6a21;&#x5757;/&#x8eab;&#x4efd;&#x8ba4;&#x8bc1;/&#x65b0;&#x8ba4;&#x8bc1;/SSH_New_RZViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "-jumpRenZheng"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B086FA4A-7648-4D66-BB9B-B4CFC9B5F8AE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qianDanWang/&#x4e0a;&#x7ebf;&#x540e;/&#x4e2a;&#x4eba;&#x6a21;&#x5757;/&#x8eab;&#x4efd;&#x8ba4;&#x8bc1;/&#x65b0;&#x8ba4;&#x8bc1;/SSH_New_RZViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "-jumpRenZheng"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8511A047-515A-4784-9AB8-509304F6253B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qianDanWang/&#x4e0a;&#x7ebf;&#x540e;/&#x4e2a;&#x4eba;&#x6a21;&#x5757;/&#x8eab;&#x4efd;&#x8ba4;&#x8bc1;/&#x65b0;&#x8ba4;&#x8bc1;/SSH_New_RZViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "336"
+            endingLineNumber = "336"
+            landmarkName = "-getDENGFANGInsertAuthRecordForData"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D1A99B78-98E5-4DC8-B7F6-E0603EC78F7D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qianDanWang/&#x4e0a;&#x7ebf;&#x540e;/&#x4e2a;&#x4eba;&#x6a21;&#x5757;/&#x8eab;&#x4efd;&#x8ba4;&#x8bc1;/&#x65b0;&#x8ba4;&#x8bc1;/SSH_New_RZViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "349"
+            endingLineNumber = "349"
+            landmarkName = "-getDENGFANGInsertAuthRecordForData"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11551652-EAB1-4522-80F4-768661BB4738"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qianDanWang/&#x4e0a;&#x7ebf;&#x540e;/&#x4e2a;&#x4eba;&#x6a21;&#x5757;/&#x8eab;&#x4efd;&#x8ba4;&#x8bc1;/&#x65b0;&#x8ba4;&#x8bc1;/SSH_New_RZViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "350"
+            endingLineNumber = "350"
+            landmarkName = "-getDENGFANGInsertAuthRecordForData"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E17B145D-3F1C-4682-87D0-2BB72A5D106A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qianDanWang/&#x4e0a;&#x7ebf;&#x540e;/&#x4e2a;&#x4eba;&#x6a21;&#x5757;/&#x8eab;&#x4efd;&#x8ba4;&#x8bc1;/&#x65b0;&#x8ba4;&#x8bc1;/SSH_New_RZViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "351"
+            endingLineNumber = "351"
+            landmarkName = "-getDENGFANGInsertAuthRecordForData"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,71 @@
+//
+//  UsePrefix.pch
+//  TaoYouDan
+//
+//  Created by LY on 2018/9/17.
+//  Copyright © 2018年 LY. All rights reserved.
+//
+
+#ifndef UsePrefix_h
+#define UsePrefix_h
+
+//宏定义的文件
+#import "FontAndColor.h"
+#import "ToolsMacros.h"
+#import "ConfigMacros.h"
+
+//
+#import "SSQ_BaseNavigationViewController.h"
+#import "SSQ_HiddenNavigationViewController.h"
+#import "SSQ_BaseLoginViewController.h"
+#import "SSQ_BaseNormalViewController.h"
+#import "DENGFANGRequest.h"//数据请求
+#import "DENGFANGSingletonTime.h"//单例
+#import "DENGFANGEncryptToolClass.h"//参数md5加密
+
+#import "XPBackView.h"
+
+//第三方文件
+#import <MJRefresh.h>
+#import <UIImageView+WebCache.h>
+#import <AFNetworking.h>
+#import <Masonry.h>
+#import <Reachability.h>
+#import <SDCycleScrollView.h>
+#import <MBProgressHUD.h>
+#import <SDAutoLayout.h>
+#import <UIImageView+WebCache.h>
+#import <UIImage+GIF.h>
+#import <MJExtension.h>
+#import <UMCommon/UMCommon.h>
+#import "IQKeyboardManager.h"
+#import <SDWebImage/UIButton+WebCache.h>
+#import <UMAnalytics/MobClick.h>
+#import <MBProgressHUD.h>
+
+//工具类
+#import "AppDelegate.h"
+#import "UIView+SJBorderLine.h"  //指定位置加线
+#import "DENGFANGHelperFunction.h"
+#import "NSString+SJEncrypt.h"//加密
+#import "NSDate+ZJHelperKit.h" //时间装换
+#import "UILabel+TPChangeLineSpaceAndWordSpace.h" //文字间距
+#import "UITableView+XYFEmptyData.h"
+
+#import "NSMutableArray+DENGFANGNoRepeatArray.h"
+
+#import "ReactiveObjC.h"
+
+#import "SSH_TOOL_GongJuLei.h"
+#import "SSH_ZhangHaoDongJieView.h"
+#import "UIView+Layout.h"
+#import "UIButton+SJCustomButton.h"
+#import "MBProgressHUD+SGKHUD.h"
+
+#import "SSQ_ESCMAC.h"
+
+//pragma make ========================腾讯认证（人脸+OCR）
+#import <WBOCRService/WBOCRService.h>
+
+
+#endif /* UsePrefix_h */

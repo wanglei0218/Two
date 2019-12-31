@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="65" id="KGk-i7-Jjw" customClass="SSH_CreditDetailsFristerTableViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="376" height="65"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="376" height="64.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6vL-CZ-uUK">
+                        <rect key="frame" x="20" y="0.0" width="42" height="64.5"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Ldf-AL-eK4">
+                        <rect key="frame" x="154" y="10" width="202" height="44.5"/>
+                        <color key="backgroundColor" red="0.96470588235294119" green="0.96470588235294119" blue="0.96470588235294119" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="202" id="ZgS-V6-cbU"/>
+                        </constraints>
+                        <color key="textColor" red="0.1333333333" green="0.1333333333" blue="0.1333333333" alpha="1" colorSpace="calibratedRGB"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                        <textInputTraits key="textInputTraits"/>
+                    </textField>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="Ldf-AL-eK4" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="10" id="8F3-7G-oLB"/>
+                    <constraint firstItem="6vL-CZ-uUK" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="20" id="AXC-3X-2Wk"/>
+                    <constraint firstAttribute="bottom" secondItem="Ldf-AL-eK4" secondAttribute="bottom" constant="10" id="Oz9-BM-IFu"/>
+                    <constraint firstItem="6vL-CZ-uUK" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="iZy-Pu-NC4"/>
+                    <constraint firstAttribute="trailing" secondItem="Ldf-AL-eK4" secondAttribute="trailing" constant="20" id="mCv-DI-LWf"/>
+                    <constraint firstAttribute="bottom" secondItem="6vL-CZ-uUK" secondAttribute="bottom" id="nlf-12-XRu"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="aW0-zy-SZf"/>
+            <connections>
+                <outlet property="leftLabel" destination="6vL-CZ-uUK" id="ute-wM-s8l"/>
+                <outlet property="rightTextTF" destination="Ldf-AL-eK4" id="WC4-c2-9pN"/>
+            </connections>
+            <point key="canvasLocation" x="178.2608695652174" y="148.32589285714286"/>
+        </tableViewCell>
+    </objects>
+</document>

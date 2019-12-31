@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="USERFirstTypeCollectionViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="121" height="106"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="121" height="106"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="5zW-sc-hLf">
+                        <rect key="frame" x="0.0" y="0.0" width="121" height="106"/>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3Fc-IU-6Kh">
+                        <rect key="frame" x="0.0" y="43" width="121" height="20"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="20" id="jlo-C7-U8a"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="PingFangSC-Semibold" family="PingFang SC" pointSize="16"/>
+                        <color key="textColor" red="0.96564807949999998" green="0.97253328139999995" blue="0.99318888719999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="3Fc-IU-6Kh" secondAttribute="trailing" id="71s-9W-brk"/>
+                <constraint firstAttribute="trailing" secondItem="5zW-sc-hLf" secondAttribute="trailing" id="DGU-Dd-EBY"/>
+                <constraint firstItem="3Fc-IU-6Kh" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="EeX-KX-hh2"/>
+                <constraint firstAttribute="bottom" secondItem="5zW-sc-hLf" secondAttribute="bottom" id="QKM-YJ-7wX"/>
+                <constraint firstItem="5zW-sc-hLf" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="RCZ-qq-0n4"/>
+                <constraint firstItem="5zW-sc-hLf" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="ccn-IL-t57"/>
+                <constraint firstItem="3Fc-IU-6Kh" firstAttribute="centerX" secondItem="gTV-IL-0wX" secondAttribute="centerX" id="lvx-SQ-M02"/>
+                <constraint firstItem="3Fc-IU-6Kh" firstAttribute="centerY" secondItem="gTV-IL-0wX" secondAttribute="centerY" id="nJd-kW-DYP"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="SEy-5g-ep8"/>
+            <size key="customSize" width="121" height="106"/>
+            <connections>
+                <outlet property="bgImage" destination="5zW-sc-hLf" id="Ac6-s0-6e9"/>
+                <outlet property="titleLabel" destination="3Fc-IU-6Kh" id="huQ-3O-l3z"/>
+            </connections>
+            <point key="canvasLocation" x="194.40000000000001" y="179.91004497751126"/>
+        </collectionViewCell>
+    </objects>
+</document>
